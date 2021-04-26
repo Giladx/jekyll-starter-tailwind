@@ -1,4 +1,14 @@
 ---
 label: Page Post
 hide_body: false
-fields: []
+fields:
+- name: '123'
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: '123'
+  description: '12345'
