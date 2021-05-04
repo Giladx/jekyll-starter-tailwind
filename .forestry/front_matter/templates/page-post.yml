@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: '123'
   description: '12345'
+pages:
+- index.md
